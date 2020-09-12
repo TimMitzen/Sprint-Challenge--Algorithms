@@ -24,7 +24,7 @@ else:
 continue to drop eggs at the halfway 
 mark of the untested area until you get a broken egg at a floor 
 directly above a floor where the egg does not break
-logarithmic
+run time logarithmic
 
 
 
